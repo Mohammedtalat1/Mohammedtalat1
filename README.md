@@ -1,5 +1,5 @@
 ### Hi there, I'm Mohammed Talat 
-I’m Mohammed Talat, an IT professional and developer with a deep passion for crafting innovative and impactful solutions. My expertise covers backend development, integration testing, and content creation. I’m dedicated to lifelong learning, with a keen interest in emerging technologies—particularly AI—and their potential to transform the technology landscape.
+IT professional and developer with a deep passion for crafting innovative and impactful solutions. My expertise covers backend development, integration testing, and content creation. I’m dedicated to lifelong learning, with a keen interest in emerging technologies—particularly AI—and their potential to transform the technology landscape.
 
 <!--
 **Mohammedtalat1/Mohammedtalat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
